@@ -1,5 +1,3 @@
-# Dev Modi
-
 * About Me
   * Python Developer based in India.
 
