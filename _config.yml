@@ -1,7 +1,6 @@
 title: Dev Modi # name of the site
 author: Dev Modi # name of site's author
 email: dev.modi.one@outlook.com # email of site's author
-url: https://devmodi.me # root address of the site
 description: > # description of the site (multiple lines allowed)
   Just another python developer.
   
