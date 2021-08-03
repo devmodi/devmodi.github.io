@@ -6,3 +6,6 @@ description: > # description of the site (multiple lines allowed)
   Just another python developer.
   
 remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
