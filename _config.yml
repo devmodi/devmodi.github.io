@@ -2,9 +2,9 @@ title: Dev Modi # name of the site
 author: Dev Modi # name of site's author
 email: dev.modi.one@outlook.com # email of site's author
 description: > # description of the site (multiple lines allowed)
-  Just another python developer.
+  Dev Modi.
   
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "light" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
